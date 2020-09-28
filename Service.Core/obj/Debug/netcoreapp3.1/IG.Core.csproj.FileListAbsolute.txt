@@ -1,0 +1,12 @@
+C:\Users\jonij\source\repos\IG.Core\IG.Core\bin\Debug\netcoreapp3.1\IG.Core.deps.json
+C:\Users\jonij\source\repos\IG.Core\IG.Core\bin\Debug\netcoreapp3.1\IG.Core.dll
+C:\Users\jonij\source\repos\IG.Core\IG.Core\obj\Debug\netcoreapp3.1\IG.Core.AssemblyInfoInputs.cache
+C:\Users\jonij\source\repos\IG.Core\IG.Core\obj\Debug\netcoreapp3.1\IG.Core.AssemblyInfo.cs
+C:\Users\jonij\source\repos\IG.Core\IG.Core\bin\Debug\netcoreapp3.1\IG.Core.runtimeconfig.json
+C:\Users\jonij\source\repos\IG.Core\IG.Core\bin\Debug\netcoreapp3.1\IG.Core.runtimeconfig.dev.json
+C:\Users\jonij\source\repos\IG.Core\IG.Core\obj\Debug\netcoreapp3.1\IG.Core.genruntimeconfig.cache
+C:\Users\jonij\source\repos\IG.Core\IG.Core\bin\Debug\netcoreapp3.1\IG.Core.pdb
+C:\Users\jonij\source\repos\IG.Core\IG.Core\obj\Debug\netcoreapp3.1\IG.Core.dll
+C:\Users\jonij\source\repos\IG.Core\IG.Core\obj\Debug\netcoreapp3.1\IG.Core.pdb
+C:\Users\jonij\source\repos\IG.Core\IG.Core\obj\Debug\netcoreapp3.1\IG.Core.csproj.CoreCompileInputs.cache
+C:\Users\jonij\source\repos\IG.Core\IG.Core\obj\Debug\netcoreapp3.1\IG.Core.csprojAssemblyReference.cache
